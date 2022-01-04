@@ -1,0 +1,6 @@
+ModIDS = {
+ 1,
+ 2,
+}
+
+return ModIDS
